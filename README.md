@@ -16,3 +16,7 @@ WordSet에는 없지만 article_morp에 있다면 [단어, 0]꼴
 
 ### Standardization(Vec)
 정규화 : 문서에서 차지하는 비율로 변환 (0~1)
+
+# dist.py
+### euclidean_distance(Vec1, Vec2)
+Vec1, Vec2간 유클리디안 거리 계산 후 반환
