@@ -1,5 +1,6 @@
 # Kmeans_01
- Kmeans 학습용
+Kmeans 학습용, 형태소분석은 ETRI의 API를 이용함.
+[공공 인공지능오픈 API·DATA 서비스 포털](http://aiopen.etri.re.kr)
 
 # wordlist.py
 ### MakeWordList_articles(article_list)
